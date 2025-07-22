@@ -1,20 +1,25 @@
-## Hi, I'm Anasta
+## Hi, I'm Anasta ⋆˚.
+👩🏻‍💻 a sophomore at [IASA](https://kpi.ua/en/iasa) ☕︎
 
-- 🔭 I’m currently working on ...
-- 👩🏻‍💻 a sophomore [IASA](https://kpi.ua/en/iasa) student
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 actively developing in C++, familiar with C
+- 🎮 currently learning C# and beginning to gain hands-on experience with Unity
+- 🤸‍♀️ fun fact: an avid dancer at heart and during downtime 
+> 💥 super skill: can switch between brainrot and deep intellectual talks within 3 seconds
 
-[![Anasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=knasts)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knasts)](https://github.com/anuraghazra/github-readme-stats)
+## my stats:
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=knasts&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knasts&layout=compact&theme=rose_pine" />
+</p>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knasts&show_icons=true&theme=rose_pine)
+<!-- catppuccin_mocha,  -->
+
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knasts&layout=compact&theme=rose_pine)   
 
 
 
 
-- 
 -->
