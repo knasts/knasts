@@ -1,11 +1,7 @@
-## Hi there 👋
-[![Anasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=knasts)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**knasts/knasts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## hi, I'm Anasta
 
 - 🔭 I’m currently working on ...
+- 👩🏻‍💻 a sophomore [IASA][https://kpi.ua/en/iasa] student
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +9,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=knasts)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knasts)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+- 
 -->
