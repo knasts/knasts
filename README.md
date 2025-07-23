@@ -4,7 +4,7 @@
 
 
 ## Hi, I'm Anasta ⋆˚.
-👩🏻‍💻 a sophomore at [IASA](https://kpi.ua/en/iasa) ☕︎
+👩🏻‍💻 a sophomore at [IASA](https://kpi.ua/en/iasa) KPI ☕︎
 
 - 💻 actively developing in C++, familiar with C
 - 🎮 currently learning C# and beginning to gain hands-on experience with Unity
