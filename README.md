@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c37cf2,100:090747&height=140&section=header&text=𝐒𝐩𝐞𝐚𝐤%20𝐘𝐨𝐮𝐫𝐬𝐞𝐥𝐟&fontSize=20&fontColor=e6ca7e&fontAlignY=30"/>
 </p> 
 
-𝐒𝐩𝐞𝐚𝐤 𝐘𝐨𝐮𝐫𝐬𝐞𝐥𝐟
-
 ## Hi, I'm Anasta ⋆˚.
 👩🏻‍💻 a sophomore at [IASA](https://kpi.ua/en/iasa) KPI ☕︎
 
