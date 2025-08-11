@@ -13,7 +13,7 @@
 ## my stats:
 
 <p >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knasts&show_icons=true&theme=nightowl&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knasts&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knasts&size_weight=0.5&count_weight=0.5&theme=nightowl&layout=donut" />
 </p>
 
