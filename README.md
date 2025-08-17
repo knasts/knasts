@@ -20,5 +20,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c37cf2,100:090747&height=140&section=footer"/>
 </p> 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knasts&show_icons=true&theme=rose_pine)
+<!-- ![knasts's GitHub stats](https://github-readme-stats.vercel.app/api?username=knasts&show_icons=true&theme=rose_pine)
 <!-- &count_private=true catppuccin_mocha, rose_pine color=0:c37cf2,100:090747  db74d6-->
