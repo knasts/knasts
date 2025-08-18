@@ -14,7 +14,7 @@
 
 <p >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knasts&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knasts&size_weight=0.5&count_weight=0.5&theme=nightowl&layout=donut" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knasts&size_weight=0.5&count_weight=0.5&theme=nightowl&layout=donut&include_all_commits=true&count_private=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c37cf2,100:090747&height=140&section=footer"/>
