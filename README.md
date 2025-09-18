@@ -8,7 +8,6 @@
 - 💻 actively developing in C++, familiar with C
 - 🎮 currently learning C# and beginning to gain hands-on experience with Unity
 - 🤸‍♀️ fun fact: an avid dancer at heart and during downtime 
-> 💥 super skill: can switch between brainrot and deep intellectual talks within 3 seconds
 
 ## my stats:
 
@@ -22,3 +21,4 @@
 
 <!-- ![knasts's GitHub stats](https://github-readme-stats.vercel.app/api?username=knasts&show_icons=true&theme=rose_pine&include_all_commits=true)
 <!-- &count_private=true catppuccin_mocha, rose_pine color=0:c37cf2,100:090747  db74d6-->
+<!-- > 💥 super skill: can switch between brainrot and deep intellectual talks within 3 seconds)
