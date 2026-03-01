@@ -6,12 +6,12 @@
 - 🎮 currently gaining hands-on experience with Unity
 - 🤸‍♀️ fun fact: an avid dancer at heart and during downtime 
 
-## my stats:
+<!--## my stats:
 
-<p >
+<!-- <p >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knasts&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knasts&size_weight=0.5&count_weight=0.5&theme=nightowl&layout=donut&count_private=true" />
-</p>
+</p> -->
 
  
 
